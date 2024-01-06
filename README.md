@@ -6,5 +6,5 @@
 - 💬 Ask me about IT and cloud strategy, technical leadership for the modern Lean Enterprise, mentoring, DevOps, lean methodology and autonomous teams. 
 - 🗣 Public speaking - see [this gist](https://gist.github.com/janhenrik/9cc8c6e503cbab3f3a5115aeed9ac8d9)
 - 🔬 Published papers - see [Google Scholar](https://scholar.google.com/citations?user=4bw3LsEAAAAJ)
-- 📫 How to reach me: janhenrik@gundelsby.com or Twitter [@janhenrik](twitter.com/janhenrik)
+- 📫 How to reach me: janhenrik@gundelsby.com or on X [@janhenrik](twitter.com/janhenrik)
 - 😄 Pronouns: he/him
