@@ -7,4 +7,5 @@
 - 🗣 [Public speaking](https://gundelsby.com/foredrag/) (In Norwegian)
 - 🔬 [Published papers](https://gundelsby.com/papers/)
 - 📫 How to reach me: janhenrik@gundelsby.com or on X [@janhenrik](twitter.com/janhenrik)
+- 🏠 [gundelsby.com](https://gundelsby.com)
 - 😄 Pronouns: he/him
